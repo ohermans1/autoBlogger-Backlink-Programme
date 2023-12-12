@@ -1,8 +1,8 @@
 # [Jump to English](#english) | [Jump to Chinese (Simplified)](#chinese-simplified) | [Jump to Chinese (Traditional)](#chinese-traditional) | [Jump to Czech](#czech) | [Jump to Danish](#danish) | [Jump to Dutch](#dutch) | [Jump to Finnish](#finnish) | [Jump to French](#french) | [Jump to German](#german) | [Jump to Italian](#italian) | [Jump to Japanese](#japanese) | [Jump to Korean](#korean) | [Jump to Norwegian (Bokmål)](#norwegian-bokmal) | [Jump to Polish](#polish) | [Jump to Portuguese (Brazil)](#portuguese-brazil) | [Jump to Portuguese (Portugal)](#portuguese-portugal) | [Jump to Spanish](#spanish) | [Jump to Swedish](#swedish) | [Jump to Thai](#thai) | [Jump to Turkish](#turkish)
 
-## English <a name="english"></a>
+# English <a name="english"></a>
 
-# Backlinks Program
+## Backlinks Program
 
 This document provides information about the Backlinks Program included with autoBlogger. Please read this information carefully to understand how the program works.
 
@@ -40,12 +40,11 @@ Backlinks, also known as inbound links, are external links that point to your we
 
 We value your participation in the Backlinks Program and aim to provide a beneficial and collaborative experience for all users.
 
-____________________________________________________________________________________
+***
 
+# Chinese (Simplified) <a name="chinese-simplified"></a>
 
-## Chinese (Simplified) <a name="chinese-simplified"></a>
-
-# 反向链接计划
+## 反向链接计划
 
 本文提供有关包含在 autoBlogger 中的反向链接计划的信息。请仔细阅读此信息，了解该计划的运作方式。
 
@@ -83,11 +82,10 @@ ________________________________________________________________________________
 
 我们重视您对反向链接计划的参与，并致力于为所有用户提供有益且协作的体验。
 
-____________________________________________________________________________________
+***
 
-
-## Chinese (Traditional) <a name="chinese-traditional"></a>
-# 反向鏈接計畫
+# Chinese (Traditional) <a name="chinese-traditional"></a>
+## 反向鏈接計畫
 
 本文件提供有關 autoBlogger 中包含的反向鏈接計畫的資訊。請仔細閱讀此資訊，以了解該計畫的運作方式。
 
@@ -125,11 +123,10 @@ ________________________________________________________________________________
 
 我們重視您對反向鏈接計畫的參與，並致力於為所有用戶提供有益且協作的體驗。
 
-____________________________________________________________________________________
+***
 
-
-## Czech <a name="czech"></a>
-# Program zpětných odkazů
+# Czech <a name="czech"></a>
+## Program zpětných odkazů
 
 Tento dokument poskytuje informace o Programu zpětných odkazů zahrnutém v autoBloggeru. Přečtěte si tyto informace pečlivě, abyste porozuměli fungování tohoto programu.
 
@@ -167,12 +164,11 @@ Zpětné odkazy, známé také jako příchozí odkazy, jsou externí odkazy sm�
 
 Oceňujeme vaši účast v Programu zpětných odkazů a snažíme se poskytnout prospěšný a spolupracující zážitek pro všechny uživatele.
 
-____________________________________________________________________________________
+***
 
+# Danish <a name="danish"></a>
 
-## Danish <a name="danish"></a>
-
-# Tilbagekoblingsprogram
+## Tilbagekoblingsprogram
 
 Dette dokument indeholder oplysninger om Tilbagekoblingsprogrammet inkluderet i autoBlogger. Læs venligst disse oplysninger grundigt for at forstå, hvordan programmet fungerer.
 
@@ -210,11 +206,10 @@ Tilbagekoblinger, også kendt som indgående links, er eksterne links, der peger
 
 Vi værdsætter din deltagelse i Tilbagekoblingsprogrammet og sigter mod at levere en gavnlig og samarbejdende oplevelse for alle brugere.
 
-____________________________________________________________________________________
+***
 
-
-## Dutch <a name="dutch"></a>
-# Backlinks Programma
+# Dutch <a name="dutch"></a>
+## Backlinks Programma
 
 Dit document bevat informatie over het Backlinks Programma dat is inbegrepen bij autoBlogger. Lees deze informatie zorgvuldig door om te begrijpen hoe het programma werkt.
 
@@ -252,11 +247,10 @@ Backlinks, ook wel bekend als inkomende links, zijn externe links die naar uw we
 
 Wij waarderen uw deelname aan het Backlinks Programma en streven ernaar een gunstige en samenwerkende ervaring te bieden voor alle gebruikers.
 
-____________________________________________________________________________________
+***
 
-
-## Finnish <a name="finnish"></a>
-# Takaisinlinkkiohjelma
+# Finnish <a name="finnish"></a>
+## Takaisinlinkkiohjelma
 
 Tämä dokumentti sisältää tietoa autoBloggeriin sisältyvästä Takaisinlinkkiohjelmasta. Lue tämä tieto huolellisesti ymmärtääksesi, miten ohjelma toimii.
 
@@ -294,11 +288,10 @@ Takaisinlinkit, myös tunnettuina nimellä sisääntulevat linkit, ovat ulkoisia
 
 Arvostamme osallistumistasi Takaisinlinkkiohjelmaan ja pyrimme tarjoamaan kaikille käyttäjille hyödyllisen ja yhteistyöhön perustuvan kokemuksen.
 
-____________________________________________________________________________________
+***
 
-
-## French <a name="french"></a>
-# Programme de Liens Retour
+# French <a name="french"></a>
+## Programme de Liens Retour
 
 Ce document fournit des informations sur le Programme de Liens Retour inclus dans autoBlogger. Veuillez lire ces informations attentivement pour comprendre comment le programme fonctionne.
 
@@ -336,11 +329,10 @@ Les Liens Retour, également connus sous le nom de liens entrants, sont des lien
 
 Nous apprécions votre participation au Programme de Liens Retour et nous nous efforçons de fournir une expérience bénéfique et collaborative pour tous les utilisateurs.
 
-____________________________________________________________________________________
+***
 
-
-## German <a name="german"></a>
-# Backlinks-Programm
+# German <a name="german"></a>
+## Backlinks-Programm
 
 Dieses Dokument enthält Informationen zum Backlinks-Programm, das bei autoBlogger enthalten ist. Lesen Sie diese Informationen sorgfältig durch, um zu verstehen, wie das Programm funktioniert.
 
@@ -378,11 +370,10 @@ Backlinks, auch als eingehende Links bekannt, sind externe Links, die auf Ihre W
 
 Wir schätzen Ihre Teilnahme am Backlinks-Programm und streben an, eine nützliche und kooperative Erfahrung für alle Benutzer zu bieten.
 
-____________________________________________________________________________________
+***
 
-
-## Italian <a name="italian"></a>
-# Programma di Backlinks
+# Italian <a name="italian"></a>
+## Programma di Backlinks
 
 Questo documento fornisce informazioni sul Programma di Backlinks incluso in autoBlogger. Si prega di leggere attentamente queste informazioni per capire come funziona il programma.
 
@@ -420,11 +411,10 @@ I Backlinks, noti anche come link in entrata, sono link esterni che puntano al t
 
 Apprezziamo la tua partecipazione al Programma di Backlinks e miriamo a fornire un'esperienza benefica e collaborativa per tutti gli utenti.
 
-____________________________________________________________________________________
+***
 
-
-## Japanese <a name="japanese"></a>
-# バックリンクプログラム
+# Japanese <a name="japanese"></a>
+## バックリンクプログラム
 
 この文書は、autoBloggerに含まれるバックリンクプログラムに関する情報を提供します。このプログラムの動作を理解するために、これらの情報を注意深くお読みください。
 
@@ -462,11 +452,10 @@ ________________________________________________________________________________
 
 バックリンクプログラムへの参加を大切にし、すべてのユーザーに有益で協力的なエクスペリエンスを提供することを目指しています。
 
-____________________________________________________________________________________
+***
 
-
-## Korean <a name="korean"></a>
-# 백링크 프로그램
+# Korean <a name="korean"></a>
+## 백링크 프로그램
 
 이 문서는 autoBlogger에 포함된 백링크 프로그램에 관한 정보를 제공합니다. 이 프로그램이 어떻게 작동하는지 이해하기 위해 이 정보를 주의 깊게 읽어주세요.
 
@@ -504,11 +493,10 @@ ________________________________________________________________________________
 
 백링크 프로그램에 대한 참여를 소중히 여기며 모든 사용자에게 유익하고 협력적인 경험을 제공하기 위해 노력하고 있습니다.
 
-____________________________________________________________________________________
+***
 
-
-## Norwegian (Bokmål) <a name="norwegian-bokmal"></a>
-# Tilbakekoblingsprogram
+# Norwegian (Bokmål) <a name="norwegian-bokmal"></a>
+## Tilbakekoblingsprogram
 
 Dette dokumentet gir informasjon om Tilbakekoblingsprogrammet som er inkludert i autoBlogger. Vennligst les denne informasjonen nøye for å forstå hvordan programmet fungerer.
 
@@ -546,11 +534,10 @@ Tilbakekoblinger, også kjent som innkommende lenker, er eksterne lenker som pek
 
 Vi verdsetter din deltakelse i Tilbakekoblingsprogrammet og streber etter å tilby en gunstig og samarbeidsvillig opplevelse for alle brukere.
 
-____________________________________________________________________________________
+***
 
-
-## Polish <a name="polish"></a>
-# Program Backlinków
+# Polish <a name="polish"></a>
+## Program Backlinków
 
 Ten dokument zawiera informacje na temat Programu Backlinków, który jest częścią autoBloggera. Przeczytaj te informacje uważnie, aby zrozumieć, jak działa ten program.
 
@@ -588,11 +575,10 @@ Backlinki, zwane również linkami przychodzącymi, to zewnętrzne linki prowadz
 
 Cenimy Twoje zaangażowanie w Program Backlinków i dążymy do zapewnienia korzystnego i współpracującego doświadczenia dla wszystkich użytkowników.
 
-____________________________________________________________________________________
+***
 
-
-## Portuguese (Brazil) <a name="portuguese-brazil"></a>
-# Programa de Backlinks
+# Portuguese (Brazil) <a name="portuguese-brazil"></a>
+## Programa de Backlinks
 
 Este documento fornece informações sobre o Programa de Backlinks incluído no autoBlogger. Por favor, leia estas informações atentamente para entender como o programa funciona.
 
@@ -630,11 +616,10 @@ Backlinks, também conhecidos como links de entrada, são links externos que apo
 
 Valorizamos sua participação no Programa de Backlinks e buscamos oferecer uma experiência benéfica e colaborativa para todos os usuários.
 
-____________________________________________________________________________________
+***
 
-
-## Portuguese (Portugal) <a name="portuguese-portugal"></a>
-# Programa de Backlinks
+# Portuguese (Portugal) <a name="portuguese-portugal"></a>
+## Programa de Backlinks
 
 Este documento fornece informações sobre o Programa de Backlinks incluído no autoBlogger. Por favor, leia atentamente estas informações para compreender como o programa funciona.
 
@@ -672,11 +657,10 @@ Backlinks, também conhecidos como links de entrada, são links externos que apo
 
 Valorizamos a sua participação no Programa de Backlinks e procuramos proporcionar uma experiência benéfica e colaborativa para todos os utilizadores.
 
-____________________________________________________________________________________
+***
 
-
-## Spanish <a name="spanish"></a>
-# Programa de Backlinks
+# Spanish <a name="spanish"></a>
+## Programa de Backlinks
 
 Este documento proporciona información sobre el Programa de Backlinks incluido en autoBlogger. Por favor, lee esta información detenidamente para entender cómo funciona el programa.
 
@@ -714,11 +698,10 @@ Backlinks, también conocidos como enlaces entrantes, son enlaces externos que a
 
 Valoramos tu participación en el Programa de Backlinks y buscamos proporcionar una experiencia beneficiosa y colaborativa para todos los usuarios.
 
-____________________________________________________________________________________
+***
 
-
-## Swedish <a name="swedish"></a>
-# Backlink-program
+# Swedish <a name="swedish"></a>
+## Backlink-program
 
 Detta dokument ger information om Backlink-programmet som ingår i autoBlogger. Vänligen läs denna information noggrant för att förstå hur programmet fungerar.
 
@@ -756,11 +739,10 @@ Backlinks, även kända som inkommande länkar, är externa länkar som pekar ti
 
 Vi uppskattar ditt deltagande i Backlink-programmet och strävar efter att erbjuda en gynnsam och samarbetsvillig upplevelse för alla användare.
 
-____________________________________________________________________________________
+***
 
-
-## Thai <a name="thai"></a>
-# โปรแกรม Backlink
+# Thai <a name="thai"></a>
+## โปรแกรม Backlink
 
 เอกสารนี้ให้ข้อมูลเกี่ยวกับโปรแกรม Backlink ที่รวมมีใน autoBlogger โปรดอ่านข้อมูลนี้อย่างระมัดระวังเพื่อเข้าใจว่าโปรแกรมนี้ทำงานอย่างไร
 
@@ -798,10 +780,10 @@ Backlinks หรือที่เรียกว่าลิงก์ขาเ�
 
 เรารักค่าเข้าร่วมของคุณในโปรแกรม Backlink และมุ่งมั่นที่จะให้ประสบการณ์ที่เป็นประโยชน์และร่วมมือสำหรับผู้ใช้ทุกคน
 
-____________________________________________________________________________________
+***
 
-## Turkish <a name="turkish"></a>
-# Backlink Programı
+# Turkish <a name="turkish"></a>
+## Backlink Programı
 
 Bu belge, autoBlogger ile birlikte sunulan Backlink Programı hakkında bilgi sağlar. Lütfen bu bilgileri dikkatlice okuyun ve programın nasıl çalıştığını anlamak için bu bilgileri anlamak için dikkatlice okuyun.
 

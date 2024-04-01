@@ -60,6 +60,8 @@ Backlinks, also known as inbound links, are external links that point to your we
 
 - However, you may not remove the back-links without prior consent from autoBlogger.
 
+- By participating, you also agree that autoBlogger takes no responsibility for any changes to your search scores or SEO in general.
+
 We value your participation in the Backlinks Program and aim to provide a beneficial and collaborative experience for all users.
 
 ***

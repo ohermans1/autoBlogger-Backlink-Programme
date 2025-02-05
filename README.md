@@ -60,7 +60,9 @@ Backlinks, also known as inbound links, are external links that point to your we
 
 - However, you may not remove the back-links without prior consent from autoBlogger.
 
-- By participating, you also agree that autoBlogger takes no responsibility for any changes to your search scores or SEO in general.
+- The Backlinks Program is primarily community-driven, meaning backlink categories and placements are chosen by participating users, not autoBlogger.
+
+- autoBlogger takes no responsibility for the selection or placement of backlinks, nor for any impact on search rankings, SEO performance, or other site metrics. Participation is entirely at your own discretion.
 
 We value your participation in the Backlinks Program and aim to provide a beneficial and collaborative experience for all users.
 
